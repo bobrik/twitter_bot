@@ -1,0 +1,24 @@
+{
+  "name": "twitter_bot",
+  "version": "0.1.0",
+  "description": "Twitter Bot is parent class for your twitter project that needs to iterate followers eternally (see @listwatcher and @unfollowr)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bobrik/twitter_bot.git"
+  },
+  "dependencies": {
+    "ntwitter": ">=0.4.0"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "robot",
+    "listwatcher",
+    "unfollowr",
+    "followers",
+    "social"
+  ],
+  "author": "Ian Babrou <ibobrik@gmail.com>",
+  "license": "BSD"
+}
